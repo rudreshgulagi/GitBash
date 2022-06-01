@@ -41,6 +41,8 @@ public static void main(String[]args) throws InterruptedException {
 	
 	Thread.sleep(10000);
    driver.findElement(By.xpath("//div[@data-testid='continue-search-page-cta']")).click();
+
+//spicejet
 	
 }
 
